@@ -1,0 +1,28 @@
+/* reset code start*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+} 
+html{
+  scroll-behavior: smooth;
+}
+
+::root:{
+  --color1: #fff;
+  --color2: #
+}
+/* reset code end*/
+header{
+  background: url("Img/slider.jpg");
+  background: linear-gradient(#000000c4,#000000c4);
+/*   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 25px 0;
+}
